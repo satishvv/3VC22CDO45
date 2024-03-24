@@ -1,5 +1,5 @@
 # 3VC22CDO45
 this is MY First Reoositry
-authoe satish v 
-ds
-45
+author satish v 
+ds 45
+
